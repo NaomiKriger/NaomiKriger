@@ -22,3 +22,7 @@ Here are links to two of my talks:
 
 1. [Pycon Israel 2021 - String Comparison In Real Life](https://youtu.be/sUvksD0LV0A)
 2. [DevopsDays Portugal 2022 - Technical Documentation - How to Write it Better and Why Should I Care?](https://youtu.be/yWeKdxg_RSg)
+
+## Get in Touch
+
+You can reach me out via my [LinkedIn](https://www.linkedin.com/in/naomi-kriger/) profile
