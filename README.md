@@ -25,4 +25,6 @@ Here are links to two of my talks:
 
 ## Get in Touch
 
-You can reach me out via my [LinkedIn](https://www.linkedin.com/in/naomi-kriger/) profile
+You can reach me out on 
+[LinkedIn](https://www.linkedin.com/in/naomi-kriger/) and
+[Twitter](https://twitter.com/naomikriger)
